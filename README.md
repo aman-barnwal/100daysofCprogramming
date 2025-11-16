@@ -1,26 +1,26 @@
 # 100 Days of Code – C Programming
 
-This repository documents my **100 Days of Code** journey focused on mastering the C programming language.  
+This repository documents my 100 Days of Code journey focused on mastering the C programming language.  
 It includes daily exercises, concept practice, and mini-projects aimed at building strong programming fundamentals.
 
 ---
 
-## What’s Inside
+## What's Inside
 
 - C programming basics (input/output, operators, conditionals)
 - Loops and functions
 - Arrays, strings, and pointers
 - Structures and file handling
 - Dynamic memory allocation
-- Practice projects and problem-solving exercises
+- Problem-solving exercises
+- Mini projects
 - Daily progress logs
 
 ---
 
-## Daily Progress (Day 1 – Day 40)
+## Daily Progress (Day 1 – Day 50)
 
-Click any day to view the work.  
-*(These links automatically open the folder inside your repository.)*
+Click any day to view the work.
 
 ### Day-wise Links
 
@@ -64,6 +64,16 @@ Click any day to view the work.
 - [Day38](Day38/)
 - [Day39](Day39/)
 - [Day40](Day40/)
+- [Day41](Day41/)
+- [Day42](Day42/)
+- [Day43](Day43/)
+- [Day44](Day44/)
+- [Day45](Day45/)
+- [Day46](Day46/)
+- [Day47](Day47/)
+- [Day48](Day48/)
+- [Day49](Day49/)
+- [Day50](Day50/)
 
 ---
 
