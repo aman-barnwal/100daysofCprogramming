@@ -33,69 +33,88 @@ Each folder contains one or more `.c` programs related to that day's concept.
 
 ### Day01 – Day10: Basics and Input/Output
 
-Focused on learning syntax, input-output, conditions, and arithmetic programs.
-
-| Day | Topic | Link |
-|-----|------|------|
-| 01 | Sum of numbers and basic I/O | [Day01](Day01) |
-| 02 | Area and perimeter | [Day02](Day02) |
-| 03 | Fahrenheit conversion and swapping | [Day03](Day03) |
-| 04 | Printing numbers and variables | [Day04](Day04) |
-| 05 | Interest and unit conversion | [Day05](Day05) |
-| 06 | Even/Odd and nested if | [Day06](Day06) |
-| 07 | Leap year and vowels | [Day07](Day07) |
-| 08 | Character type and largest number | [Day08](Day08) |
-| 09 | Percentage and roots | [Day09](Day09) |
-| 10 | Switch-case and triangle validation | [Day10](Day10) |
+| Day | Programs | Links |
+|-----|----------|-------|
+| Day01 | Calculator, Sum | [simplecalculator.c](Day01/simplecalculator.c), [sum.c](Day01/sum.c) |
+| Day02 | Area & Perimeter, Circle | [areaandperimeter.c](Day02/areaandperimeter.c), [circle.c](Day02/circle.c) |
+| Day03 | Fahrenheit, Swapping | [fahrenheit.c](Day03/fahrenheit.c), [swapping.c](Day03/swapping.c) |
+| Day04 | Print Number, Third Variable | [printnumber.c](Day04/printnumber.c), [thirdvariable.c](Day04/thirdvariable.c) |
+| Day05 | Compound Interest, Conversion | [compoundinterest.c](Day05/compoundinterest.c), [conversion.c](Day05/conversion.c) |
+| Day06 | Nested If-Else, Odd/Even | [nestedifelse.c](Day06/nestedifelse.c), [oddeven.c](Day06/oddeven.c) |
+| Day07 | Leap Year, Vowel Check | [leapyear.c](Day07/leapyear.c), [vowel.c](Day07/vowel.c) |
+| Day08 | Character Type, Largest | [charactertype.c](Day08/charactertype.c), [largestofthreenumbers.c](Day08/largestofthreenumbers.c) |
+| Day09 | Percentage, Roots | [percentage.c](Day09/percentage.c), [roots.c](Day09/roots.c) |
+| Day10 | Switch Case, Triangle | [switchcase.c](Day10/switchcase.c), [triangleside.c](Day10/triangleside.c) |
 
 ---
 
-### Day11 – Day20: Logic and Number-Based Programs
+### Day11 – Day20: Logic and Number Programs
 
-Focused on numbers, digits, loops, conditions, and simple mathematics.
-
-| Day | Topic | Link |
-|-----|------|------|
-| 11 | Month & pricing | [Day11](Day11) |
-| 12 | Electricity bill & fines | [Day12](Day12) |
-| 13 | Operators and expressions | [Day13](Day13) |
-| 14 | Even/Odd logic | [Day14](Day14) |
-| 15 | Factorial and binary | [Day15](Day15) |
-| 16 | Palindrome checking | [Day16](Day16) |
-| 17 | Prime and Armstrong | [Day17](Day17) |
-| 18 | HCF and factors | [Day18](Day18) |
-| 19 | Arithmetic operations | [Day19](Day19) |
-| 20 | Binary numbers and digits | [Day20](Day20) |
+| Day | Programs | Links |
+|-----|----------|-------|
+| Day11 | Month Number, Price | [monthnumber.c](Day11/monthnumber.c), [price.c](Day11/price.c) |
+| Day12 | Electricity Bill, Library | [electricitybill.c](Day12/electricitybill.c), [library.c](Day12/library.c) |
+| Day13 | Numbers, Operators | [numbers.c](Day13/numbers.c), [opertor.c](Day13/opertor.c) |
+| Day14 | Even, Odd | [even.c](Day14/even.c), [evennumber.c](Day14/evennumber.c), [odd.c](Day14/odd.c) |
+| Day15 | Binary, Factorial | [binaryrepresentation.c](Day15/binaryrepresentation.c), [factorial.c](Day15/factorial.c) |
+| Day16 | Palindrome, Reverse | [palindrome.c](Day16/palindrome.c), [reverse.c](Day16/reverse.c) |
+| Day17 | Armstrong, Prime | [armstrongnumber.c](Day17/armstrongnumber.c), [primenumber.c](Day17/primenumber.c) |
+| Day18 | Factors, HCF | [factors.c](Day18/factors.c), [hcf.c](Day18/hcf.c) |
+| Day19 | Calculate Sum, Two Numbers | [calculatesum.c](Day19/calculatesum.c), [twonumbers.c](Day19/twonumbers.c) |
+| Day20 | Binary Number, Odd Digits | [binarynumber.c](Day20/binarynumber.c), [odddigits.c](Day20/odddigits.c) |
 
 ---
 
 ### Day21 – Day30: Patterns and Arrays
 
-Worked on number logic, pattern printing and array operations.
-
-Days:  
-[Day21](Day21), [Day22](Day22), [Day23](Day23), [Day24](Day24), [Day25](Day25),  
-[Day26](Day26), [Day27](Day27), [Day28](Day28), [Day29](Day29), [Day30](Day30)
+| Day | Programs | Links |
+|-----|----------|-------|
+| Day21 | Digit, Perfect Number | [digit.c](Day21/digit.c), [perfectnumber.c](Day21/perfectnumber.c) |
+| Day22 | N-Terms, Strong Number | [nterms.c](Day22/nterms.c), [strongnumber.c](Day22/strongnumber.c) |
+| Day23 | Series, Pattern | [nterms.c](Day23/nterms.c), [pattern.c](Day23/pattern.c) |
+| Day24 | Pattern 1, Pattern 2 | [pattern1.c](Day24/pattern1.c), [pattern2.c](Day24/pattern2.c) |
+| Day25 | Pattern 1, Pattern 2 | [pattern1.c](Day25/pattern1.c), [pattern2.c](Day25/pattern2.c) |
+| Day26 | Pattern 1, Pattern 2 | [pattern1.c](Day26/pattern1.c), [pattern2.c](Day26/pattern2.c) |
+| Day27 | Pattern 1, Pattern 2 | [patten1.c](Day27/patten1.c), [pattern2.c](Day27/pattern2.c) |
+| Day28 | Array, Prime | [onedimensional.c](Day28/onedimensional.c), [primenumber.c](Day28/primenumber.c) |
+| Day29 | Array, Max Value | [array.c](Day29/array.c), [maxima.c](Day29/maxima.c) |
+| Day30 | Count, Odd Number | [count.c](Day30/count.c), [oddnumber.c](Day30/oddnumber.c) |
 
 ---
 
 ### Day31 – Day40: Searching and Matrices
 
-Covered searching, arrays and matrix operations.
+| Day | Programs | Links |
+|-----|----------|-------|
+| Day31 | Linear Search, Reverse | [linearsearch.c](Day31/linearsearch.c), [reversearray.c](Day31/reversearray.c) |
+| Day32 | Integers, Two Arrays | [integer.c](Day32/integer.c), [twoarrays.c](Day32/twoarrays.c) |
+| Day33 | Position Based | [position.c](Day33/position.c) |
+| Day34 | Insert at Position | [givenposition.c](Day34/givenposition.c) |
+| Day35 | Largest, Rotate | [largestelement.c](Day35/largestelement.c), [rotate.c](Day35/rotate.c) |
+| Day36 | Matrix Basics | [matrix.c](Day36/matrix.c), [matrix2.c](Day36/matrix2.c) |
+| Day37 | Array, Transpose | [array.c](Day37/array.c), [transpose.c](Day37/transpose.c) |
+| Day38 | Matrices | [matrices.c](Day38/matrices.c), [matrix2.c](Day38/matrix2.c) |
+| Day39 | Diagonal, Elements | [diagonal.c](Day39/diagonal.c), [elements.c](Day39/elements.c) |
+| Day40 | Matrix Multiply | [matrix.c](Day40/matrix.c), [matrixmultiplication.c](Day40/matrixmultiplication.c) |
 
-Days:  
-[Day31](Day31), [Day32](Day32), [Day33](Day33), [Day34](Day34), [Day35](Day35),  
-[Day36](Day36), [Day37](Day37), [Day38](Day38), [Day39](Day39), [Day40](Day40)
 
 ---
 
 ### Day41 – Day50: Strings
 
-Worked with strings such as reversing, word counting, substring handling and patterns.
+| Day | Programs | Links |
+|-----|----------|-------|
+| Day41 | Count, Print Characters | [count_characters.c](Day41/count_characters.c), [print_characters.c](Day41/print_characters.c) |
+| Day42 | Vowels/Consonants, Case Change | [count_vowels_consonants.c](Day42/count_vowels_consonants.c), [lower_to_upper.c](Day42/lower_to_upper.c) |
+| Day43 | Palindrome, Reverse String | [palindrome_check.c](Day43/palindrome_check.c), [reverse_string.c](Day43/reverse_string.c) |
+| Day44 | Count Spaces, Replace | [count_spaces_digits_specials.c](Day44/count_spaces_digits_specials.c), [replace_spaces.c](Day44/replace_spaces.c) |
+| Day45 | Frequency, Toggle Case | [count_frequency.c](Day45/count_frequency.c), [toggle_case.c](Day45/toggle_case.c) |
+| Day46 | Repeating, Remove Vowels | [first_repeating_lowercase.c](Day46/first_repeating_lowercase.c), [remove_vowels.c](Day46/remove_vowels.c) |
+| Day47 | Anagram, Longest Word | [anagram_check.c](Day47/anagram_check.c), [longest_word.c](Day47/longest_word.c) |
+| Day48 | Reverse Words, Rotation | [reverse_each_word.c](Day48/reverse_each_word.c), [string_rotation.c](Day48/string_rotation.c) |
+| Day49 | Initials | [initials.c](Day49/initials.c), [initials_with_surname.c](Day49/initials_with_surname.c) |
+| Day50 | Substrings, Date | [all_substrings.c](Day50/all_substrings.c), [format_date.c](Day50/format_date.c) |
 
-Days:  
-[Day41](Day41), [Day42](Day42), [Day43](Day43), [Day44](Day44), [Day45](Day45),  
-[Day46](Day46), [Day47](Day47), [Day48](Day48), [Day49](Day49), [Day50](Day50)
 
 ---
 
